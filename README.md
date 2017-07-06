@@ -84,7 +84,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Acknowledgments
 
-* Manolis Belivanis, Keith Bell of University of Strathclyde for provided reduced GB network data.
+* Manolis Belivanis, Keith Bell of University of Strathclyde for providing reduced GB network data.
 * Patrick McNabb of Durham University for providing dynamic data of Iceland transmission data.
 
 
