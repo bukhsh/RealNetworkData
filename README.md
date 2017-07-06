@@ -6,7 +6,7 @@ This archive provides power systems test data. The data is obtained from open so
 
 If you are using this archive for your research then please cite the following reference:
 ```
-Waqquas Bukhsh, Ken McKinnon, Network data of real transmission networks, April 2013.
+Waqquas Bukhsh, Ken McKinnon, "Network data of real transmission networks", April 2013.
 ```
 
 ## Disclaimer
@@ -28,14 +28,11 @@ The test cases are in MATPOWER[1] case format. MATPOWER is a free open source pa
  
  ## Test Cases Diagrams
 
-    The diagrams are in PDF format and are made using a graphing package yEd. 
-
-References
-[1] R. D. Zimmerman, C. E. Murillo-Sanchez, and R. J. Thomas, "MATPOWER: Steady-State Operations, Planning and Analysis Tools for Power Systems Research and Education," Power Systems, IEEE Transactions on, vol. 26, no. 1, pp. 12–19, Feb. 2011. [2] F. Milano, L. Vanfretti, J. C. Morataya, An Open Source Power System Virtual Laboratory: The PSAT Case and Experience, IEEE Transactions on Education, Vol. 51, No. 1, pp. 17-23, February 2008. 
+The diagrams are in PDF format and are made using a graphing package yEd.  
 
 # How to use this archive
 
-## Whats in it
+## Whats in it?
 Following are the test cases which you can find in this archive:
 
 ### 39 Bus Case
@@ -62,18 +59,8 @@ Download the test case 'test' in your MATPOWER[1] folder. PF and OPF can be run 
  
 ## References
 [1] R. D. Zimmerman, C. E. Murillo-Sanchez, and R. J. Thomas, "MATPOWER: Steady-State Operations, Planning and Analysis Tools for Power Systems Research and Education," Power Systems, IEEE Transactions on, vol. 26, no. 1, pp. 12–19, Feb. 2011. 
+[2] C. M. Ferreira, et al., "Transient stability preventive control of an electric power system using a hybrid method,", 12th International Middle East Power System Conference 2008.
 
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Contributing
 
