@@ -6,7 +6,7 @@ This archive provides power systems test data. The data is obtained from open so
 
 If you are using this archive for your research then please cite the following reference:
 ```
-W. A. Bukhsh, Ken McKinnon, Network data of real transmission networks, April 2013
+Waqquas Bukhsh, Ken McKinnon, Network data of real transmission networks, April 2013.
 ```
 
 ## Disclaimer
