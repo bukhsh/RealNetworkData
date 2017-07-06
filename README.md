@@ -91,11 +91,11 @@ Send your submissions to wbukhsh[at]gmail.com with 'Submission' in the subject.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Manolis 
-* 
-* 
+* Manolis Belivanis, Keith Bell of University of Strathclyde for provided reduced GB network data.
+* Patrick McNabb of Durham University for providing dynamic data of Iceland transmission data.
+
 
