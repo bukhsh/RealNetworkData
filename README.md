@@ -32,7 +32,7 @@ The diagrams are in PDF format and are made using a graphing package yEd.
 
 # How to use this archive
 
-## Whats in it?
+## What's in it?
 Following are the test cases which you can find in this archive:
 
 ### 39 Bus Case
