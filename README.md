@@ -59,6 +59,7 @@ Download the test case 'test' in your MATPOWER[1] folder. PF and OPF can be run 
  
 ## References
 [1] R. D. Zimmerman, C. E. Murillo-Sanchez, and R. J. Thomas, "MATPOWER: Steady-State Operations, Planning and Analysis Tools for Power Systems Research and Education," Power Systems, IEEE Transactions on, vol. 26, no. 1, pp. 12–19, Feb. 2011. 
+
 [2] C. M. Ferreira, et al., "Transient stability preventive control of an electric power system using a hybrid method,", 12th International Middle East Power System Conference 2008.
 
 
